@@ -1,4 +1,4 @@
-# Medieval-Theme-Pack
+# Medieval Music Pack
 # Version 1
 A medieval music playlist mod for the game Vintage Story.
 
