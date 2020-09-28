@@ -1,0 +1,72 @@
+{
+	properties: {
+		mindelay: 4,
+		maxdelay: 8
+	},
+	tracks: [
+		{ 
+			"$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+			file: "The_Peasants", 
+			name: "Manor Lords OST - The Peasants (Soundtrack Preview)",
+			playstyle: "SurviveAndBuild",
+			minhour: 1,
+			maxhour: 24,
+		},
+		{ 
+			"$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+			file: "Warm_Hearths", 
+			name: "Attila: Total War - Warm Hearths",
+			playstyle: "SurviveAndBuild",
+			minhour: 1,
+			maxhour: 24,
+		},
+		{ 
+			"$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+			file: "As_You_Sow", 
+			name: "Medieval Dynasty - As You Sow",
+			playstyle: "SurviveAndBuild",
+			minhour: 1,
+			maxhour: 24,
+		},
+		{ 
+			"$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+			file: "Dusking_Sky", 
+			name: "Crusader Kings 3 OST - Dusking Sky Part 1",
+			playstyle: "SurviveAndBuild",
+			minhour: 1,
+			maxhour: 24,
+		},
+		{ 
+			"$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+			file: "In_Taberna", 
+			name: "Crusader Kings 3 OST - In Taberna",
+			playstyle: "SurviveAndBuild",
+			minhour: 1,
+			maxhour: 24,
+		},
+		{ 
+			"$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+			file: "Resurrection", 
+			name: "Crusader Kings 3 OST - Resurrection",
+			playstyle: "SurviveAndBuild",
+			minhour: 1,
+			maxhour: 24,
+		},
+		{ 
+			"$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+			file: "sunny-village-create", 
+			name: "Sunny Village [Create]",
+			playstyle: "CreativeBuilding",
+			minhour: 5,
+			maxhour: 13,
+		},
+		{
+			"$type": "Vintagestory.API.Client.SurfaceMusicTrack, VintagestoryAPI",
+			file: "heartbeat-create",
+			name: "Heartbeat [Create]",
+			playstyle: "CreativeBuilding",
+			minhour: 6,
+			maxhour: 14,
+		}
+	]
+}
